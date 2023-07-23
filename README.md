@@ -3,3 +3,4 @@ This is drought prediction using KNN which takes multiple parameters as input wi
 
 The input is taken from a study conducted in USA in 2019.
 
+The dataset can be downloaded form kaggle
